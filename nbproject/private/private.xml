@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>web/admin/mesajincele.jsp</url>
+            <bookmark id="2">
+                <name/>
+                <line>39</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/src/java/dao/UcusDAO.java</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/src/java/dao/FirmaDAO.java</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/web/rezervasyonislemlerim.jsp</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/src/java/dao/Havaalani_sehirDAO.java</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/web/rezervasyonsorgulama.jsp</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/web/admin/vendor/bootstrap/scss/_root.scss</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/web/navigasyon.jsp</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/web/admin/vendor/datatables/jquery.dataTables.js</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/src/java/dao/CevapDAO.java</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/web/favicon.png</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/web/footer.jsp</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/src/java/dao/RezervasyonDAO.java</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/src/java/dao/KullaniciDAO.java</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/web/sifremiunuttum.jsp</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/web/profil.jsp</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/src/java/model/Mesaj.java</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/web/admin/scss/utilities/_border.scss</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/web/giris.jsp</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/web/ucussorgulama.jsp</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/web/header.jsp</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/web/admin/vendor/bootstrap/scss/_images.scss</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/web/admin/vendor/bootstrap/scss/_variables.scss</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/src/java/dao/HavaalaniDAO.java</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/src/java/dao/UcakDAO.java</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/web/index.jsp</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/web/rezervasyonolustur.jsp</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/src/java/dao/MesajDAO.java</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/web/uyeol.jsp</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/web/iletisim.jsp</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/nbproject/build-impl.xml</file>
+            <file>file:/C:/Users/thy/Downloads/airline-reservation-system-master/web/error.jsp</file>
+        </group>
+    </open-files>
+</project-private>
